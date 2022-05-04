@@ -1,0 +1,2 @@
+2020/06/01 22:48:05 server.go:90: dial to [www.google-analytics.com:443] ok
+2020/06/01 22:48:59 server.go:87: dial tcp 66.220.155.12:443: connect: connection timed out
